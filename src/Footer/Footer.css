@@ -1,0 +1,19 @@
+.footer {
+  border-top: 1px solid #E7E7E7;
+  text-align: center;
+  padding: 20px;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+.dark {
+  background-color: #333;
+  color: #e8e8e8;
+}
+
+.light {
+  color: #333;
+  background-color: #e8e8e8;
+}
